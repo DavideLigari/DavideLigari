@@ -1,4 +1,4 @@
-👋 Hello there! I'm [Your Name], a passionate Data Science Engineer currently pursuing my academic journey at the University of Pavia. My mission is to leverage data-driven insights to tackle real-world challenges and make informed decisions.
+👋 Hello there! I'm Davide Ligari, a passionate Data Science Engineer currently pursuing my academic journey at the University of Pavia. My mission is to leverage data-driven insights to tackle real-world challenges and make informed decisions.
 
 🔬 My Interests:
 - 📊 Data Analysis and Visualization
